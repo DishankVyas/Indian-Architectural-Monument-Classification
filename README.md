@@ -1,3 +1,6 @@
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=DishankVyas&label=PROFILE+VIEWS&color=00FF41&style=flat" alt="Views" />
+</p>
 This professional `README.md` is generated based on the architectural classification pipeline, dataset statistics, and experimental results extracted from your Jupyter Notebook.
 
 ---
