@@ -1,7 +1,3 @@
-This professional `README.md` is generated based on the architectural classification pipeline, dataset statistics, and experimental results extracted from your Jupyter Notebook.
-
----
-
 # 🏛️ Indian Monument Architectural Classification
 
 An advanced deep learning pipeline designed to classify Indian monuments into eight distinct architectural styles. The project implements a multi-stage approach featuring **Saliency-based localized cropping**, **Two-phase Transfer Learning**, and **Mixed-Precision training** to achieve high accuracy on complex structural imagery.
